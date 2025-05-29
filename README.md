@@ -49,6 +49,10 @@
 - 4 ГБ оперативной памяти
 - 100 МБ свободного места на диске
 
+## Скачать
+
+[⬇️ Скачать .rar файл](https://github.com/neprostoilya/get_handwritten_text_from_photo_app/blob/main/app.rar)
+
 ## Лицензия
 
 MIT License
